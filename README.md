@@ -1,4 +1,4 @@
-## Oi Oi! Eu sou o Ítalo 
+## Helo! I am the Ítalo!
  <div>
   <a href="https://github.com/Efipee">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=efipee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
