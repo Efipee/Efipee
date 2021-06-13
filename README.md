@@ -8,6 +8,7 @@
   <img align="center" alt="Efipee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Efipee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Efipee-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ 
   <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/842848806520356925/853674912496353285/Sem-Titulo-2.png?width=115&height=115">
 </div>
   
@@ -21,4 +22,5 @@
  
   ![Snake animation](https://github.com/efipee/efipee/blob/output/github-contribution-grid-snake.svg)
  
+ <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
