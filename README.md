@@ -1,4 +1,4 @@
-## Helo! I am the Ítalo!
+## Helo! I am the Ítalo Coimbra!
 
  <div align="center"> 
   <a href="https://github.com/Efipee">
