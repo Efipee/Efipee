@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Passionate+Backend+Developer;Microservices+Architect;Cloud+Computing+Enthusiast;Java+%26+Kotlin+Expert;Spring+Framework+Specialist;API+Design+and+Development+Pro;Database+Performance+Optimizer;Scalability+and+High-Availability+Expert;DevOps+and+CI%2FCD+Practitioner;Agile+Methodologies+Advocate;Test-Driven+Development+(TDD)+Enthusiast;Performance+Tuning+Specialist;Security-Focused+Developer;Distributed+Systems+Designer;Message+Broker+%26+Queue+Systems+Expert;Containerization+and+Orchestration+Pro;RESTful+and+GraphQL+API+Designer;Continuous+Learning+and+Improvement;Open+Source+Contributor;Tech+Community+Mentor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer;Microservices+Enthusiast;Cloud+Computing+Learner;Java+%26+Kotlin+Beginner;Spring+Framework+Explorer;API+Design+Enthusiast;Database+Optimization+Learner;Scalability+and+High-Availability+Curious;DevOps+and+CI%2FCD+Novice;Agile+Methodologies+Enthusiast;Test-Driven+Development+(TDD)+Learner;Performance+Tuning+Beginner;Security-Conscious+Developer;Distributed+Systems+Explorer;Message+Broker+%26+Queue+Systems+Enthusiast;Containerization+and+Orchestration+Learner;RESTful+and+GraphQL+API+Explorer;Continuous+Learning+and+Growth;Open+Source+Contributor;Tech+Community+Learner+and+Mentor" alt="Typing SVG" />
+
 </div>
 
 
